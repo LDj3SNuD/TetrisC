@@ -1,3 +1,5 @@
+**TODO: Needs a new delay function (on Windows 10).**
+
 # TetrisC
 A Tetris written in C# as a console application.
 
